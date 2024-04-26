@@ -8,8 +8,8 @@ import MuiSearch from "./components/MuiSearch";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    {/* <App /> */}
-    <MuiSearch />
+    <App />
+    {/* <MuiSearch /> */}
   </React.StrictMode>
 );
 
