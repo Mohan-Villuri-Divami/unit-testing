@@ -3,7 +3,7 @@ import ReactDOM from "react-dom/client";
 import "./index.css";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
-import MuiSearch from "./components/MuiSearch";
+import MuiSearch from "./components/fetch/MuiSearch";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
